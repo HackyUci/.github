@@ -18,7 +18,7 @@ You're in the right place.
 
 ## 🔥 Our Motto
 
-> **“Ship it. Fix it later. Hack responsibly.”**
+> **“Ship it. Fix it later. Drink responsibly.”**
 
 ## 🧭 How to Navigate This Madness
 
@@ -30,24 +30,16 @@ You're in the right place.
 
 Yes.
 
-## 🐣 New Here?
-
-- Say hi in the discussions or issues! Even if it’s just “yo.”
-- Fork stuff. Break stuff. Learn stuff.
-
 ## 🚨 Warning
 
 HackyUci is not responsible for:
 - Uncontrollable learning.
 - Sudden love for open source.
 - Accidental fame due to cool side projects.
+- The urge to "nyawer"
 
-## 🎉 Final Words
-
-Whether you're a seasoned wizard or a fresh code padawan, you're welcome here. Just bring your keyboard, your chaos, and your curiosity.
-
-**Welcome to HackyUci. Let's get weird. 🤘**
+**Welcome to HackyUci. Let's get the party started. 🤘**
 
 ---
 
-Made with 💥 by sleep-deprived legends at HackyUci
+Made with 🍾 by the mentally unstable legends at HackyUci
